@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+}
+
+@media screen and (min-width: 715px) and (max-width: 960px) {
+    body {
+        background-color: white;
+    }
+}
